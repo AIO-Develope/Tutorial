@@ -1,0 +1,8 @@
+1. Simple Funktionen
+2. Kommentare
+3. Syntax (Allowed Syntax.txt)
+4. Variablen (Allowed variables.txt)
+5. Daten Typen (Daten Typen.txt)
+6. If else
+7. Definitionen
+8. for loops
