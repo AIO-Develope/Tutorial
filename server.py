@@ -27,3 +27,6 @@ while 1:
 	print 'Verbunden mit ' + addr[0] + ':' + str(addr[1])
 	
 s.close()
+
+
+#telnet localhost 8888
